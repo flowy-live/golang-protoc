@@ -40,3 +40,5 @@ docker run --rm \
          $(find ./protocol -name "*.proto")
 ```
 
+## Docker hub
+You'll notice that we use this image `talksik/golang-protoc:latest` which is in [docker hub publicly available](https://hub.docker.com/layers/talksik/golang-protoc).
